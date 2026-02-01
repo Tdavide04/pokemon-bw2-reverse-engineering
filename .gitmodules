@@ -1,6 +1,6 @@
 [submodule "PW2Code/ExternalDependencies/swan"]
 	path = PW2Code/ExternalDependencies/swan
-	url = https://github.com/ds-pokemon-hacking/swan
+	url = https://github.com/Tdavide04/swan.git
 [submodule "PW2Code/ExternalDependencies/NitroKernel"]
 	path = PW2Code/ExternalDependencies/NitroKernel
 	url = https://github.com/HelloOO7/NitroKernel
