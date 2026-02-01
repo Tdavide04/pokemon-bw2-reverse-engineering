@@ -1,0 +1,95 @@
+Misc text: 380
+
+[blue]Hardy[gray] nature.
+[blue]Lonely[gray] nature.
+[blue]Brave[gray] nature.
+[blue]Adamant[gray] nature.
+[blue]Naughty[gray] nature.
+[blue]Bold[gray] nature.
+[blue]Docile[gray] nature.
+[blue]Relaxed[gray] nature.
+[blue]Impish[gray] nature.
+[blue]Lax[gray] nature.
+[blue]Timid[gray] nature.
+[blue]Hasty[gray] nature.
+[blue]Serious[gray] nature.
+[blue]Jolly[gray] nature.
+[blue]Naive[gray] nature.
+[blue]Modest[gray] nature.
+[blue]Mild[gray] nature.
+[blue]Quiet[gray] nature.
+[blue]Bashful[gray] nature.
+[blue]Rash[gray] nature.
+[blue]Calm[gray] nature.
+[blue]Gentle[gray] nature.
+[blue]Sassy[gray] nature.
+[blue]Careful[gray] nature.
+[blue]Quirky[gray] nature.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Met at Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently met at[N]Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Arrived at Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently arrived at[N]Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N][blue]\xf000ą\x0001\x0008[gray][N]Egg obtained.[N]\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Egg hatched.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N][blue]\xf000ą\x0001\x0008[gray][N]Egg obtained.[N]\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Egg apparently hatched.
+[gray]Egg received on \xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005 [gray]from[N][blue]\xf000ą\x0001\x0008.[N][gray]Egg hatched on \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000 in[N][blue]\xf000ą\x0001\x0004.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N][blue]\xf000ą\x0001\x0008[gray][N]Egg received.[N]\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Egg apparently hatched.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Had a fateful encounter[N]at Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently had a[N]fateful encounter at[N]Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N][blue]\xf000ą\x0001\x0008[gray][N]Egg obtained.[N]\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Egg hatched.[N]Fateful encounter.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N][blue]\xf000ą\x0001\x0008[gray][N]Egg obtained.[N]\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Egg apparently hatched.[N]Fateful encounter.
+                                                                                                      
+                                                                                                         
+                                                                                                     
+                                                                                                         
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Arrived at Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently arrived at Lv. \xf000Ȃ\x0001\x0003.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Arrived at Lv. \xf000Ȃ\x0001\x0003 after[N]a long travel through time.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently arrived at Lv. \xf000Ȃ\x0001\x0003[N]after a long travel through time.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Arrived at Lv. \xf000Ȃ\x0001\x0003.[N]Fateful encounter.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently arrived at Lv. \xf000Ȃ\x0001\x0003.[N]Fateful encounter.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Arrived at Lv. \xf000Ȃ\x0001\x0003 after[N]a long travel through time.[N]Fateful encounter.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]Apparently arrived at Lv. \xf000Ȃ\x0001\x0003[N]after a long travel through time.[N]Fateful encounter.
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]Had a fateful encounter[N]with this mythical Pokémon[N]at [blue]a special place[gray].
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]Had a fateful encounter[N]with this mythical Pokémon[N]at [blue]a special place[gray].
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]Had a fateful encounter[N]with this legendary Pokémon[N]at [blue]a special place[gray].
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]Had a fateful encounter[N]with this legendary Pokémon[N]at [blue]a special place[gray].
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N][blue]\xf000ą\x0001\x0004[gray][N]This Pokémon was apparently[N]friends with a certain Trainer.
+Loves to eat.
+Often dozes off.
+Often scatters things.
+Scatters things often.
+Likes to relax.
+Proud of its power.
+Likes to thrash about.
+A little quick tempered.
+Likes to fight.
+Quick tempered.
+Sturdy body.
+Capable of taking hits.
+Highly persistent.
+Good endurance.
+Good perseverance.
+Likes to run.
+Alert to sounds.
+Impetuous and silly.
+Somewhat of a clown.
+Quick to flee.
+Highly curious.
+Mischievous.
+Thoroughly cunning.
+Often lost in thought.
+Very finicky.
+Strong willed.
+Somewhat vain.
+Strongly defiant.
+Hates to lose.
+Somewhat stubborn.
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N]A mysterious Pokémon[N]Egg received from[N][blue]\xf000ą\x0001\x0008[gray].[N]
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]A mysterious Pokémon[N]Egg obtained in[N][blue]\xf000ą\x0001\x0004[gray].
+\xf000ȁ\x0001\x0006/\xf000ȁ\x0001\x0007/20\xf000ȁ\x0001\x0005[N]A very mysterious[N]Pokémon Egg obtained[N]at [blue]\xf000ą\x0001\x0008[gray].[N]
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000[N]A quite mysterious[N]Pokémon Egg obtained[N]at [blue]\xf000ą\x0001\x0004[gray].[N]
+“The Egg Watch"[N]Sounds can be heard[N]coming from inside![N]It will hatch soon!
+“The Egg Watch"[N]It appears to move[N]occasionally. It may[N]be close to hatching.
+“The Egg Watch"[N]What will hatch from[N]this? It doesn't seem[N]close to hatching.
+“The Egg Watch"[N]It looks like this Egg[N]will take a long time to[N]hatch.
+N

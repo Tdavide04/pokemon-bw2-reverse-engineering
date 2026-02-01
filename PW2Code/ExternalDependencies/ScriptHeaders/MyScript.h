@@ -1,0 +1,1 @@
+void SetNature(short partySlot, short stat, short amount);

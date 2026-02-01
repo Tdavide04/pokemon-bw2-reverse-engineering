@@ -1,0 +1,129 @@
+Add Check IVs code into 1244.c
+Add Check IVs text into text file 479 (Story Text)
+
+[V0] booted up the PC.[E]
+Which PC should be accessed?
+Someone's PC
+Amanita's PC
+[V0]'s PC
+Professor's PC
+Records
+Help
+Switch off
+                          
+Your Hall of Fame data is corrupted.[C]It will be fixed if you enter the[N]Hall of Fame again.[E]
+                                                    
+Congratulations![C]Wallpapers were added to commemorate[N]your victory against the Champion.[E]
+Congratulations![C]Wallpapers were added to commemorate[N]your catching Kyurem.[E]
+The Pokémon Storage System[N]was accessed.[E]
+Deposit Pokémon
+Withdraw Pokémon
+Move Pokémon
+Move items
+No thanks!
+Battle Box
+Pokémon in your party may be stored[N]in the storage system's Boxes.
+Pokémon stored in Boxes may be added[N]to your party.
+You may sort the Pokémon in Boxes[N]and in your party.
+You may sort the items held by your[N]Pokémon in Boxes and in your party.
+Log out of the[N]Pokémon Storage System.
+You can register Pokémon you will use in[N]battles against other players.
+Accessed [V0]'s PC.[E]
+Mailbox
+Log out
+Up to 20 pieces of Mail can be stored.
+Log out of your PC.
+        
+      
+        
+Accessed the Record System![E]
+                              
+                             
+                         
+Accessed Professor Juniper's PC.[E]
+Accessed the Help System.[E]
+
+
+Check Ivs
+You may view the individual values[N]of a Pokémon in your party.
+An egg can not have its IVs checked.[E]
+The stats of [V0] are as follows:[N][V1] HP, [V2] Attack, [V3] Defense,[E]
+[V1] Special Attack, [V2] Special Defense,[N]and [V3] Speed.[E]
+
+Egg Dispenser
+A dispenser that give you a random egg.
+You received an egg![E]
+Your party is full.[E]
+An egg cost 10000. Do you want to buy [N]one?[E]
+You don't have enough money![E]
+You have a free spin! Do you want to buy [N]one?[E]
+Value of Egg count is [V1] and Badge count [N]is [V2].[E]
+You have [V1] eggs now.[E]
+Welcome to the Egg Dispenser![N]Here, you can receive a special Egg if [C]your badge count is equal to or greater[N]than your Eggs received.[E]
+
+Classic Mode
+Random Pokemon from any generation [N]of any type
+Challenge Mode
+Random Pokemon from any generation [N]of a certain type
+
+Monotype Normal
+Simple, but never boring
+Monotype Fire
+Too fiery to lose!
+Monotype Fighting
+Strength speaks louder than words
+Monotype Water
+Stay hydrated or get Hydro Pumped
+Monotype Flying
+Always one step above
+Monotype Grass
+Rooted and ready to grow
+Monotype Poison
+Too toxic to handle
+Monotype Electric
+Charged up and unstoppable!
+Monotype Ground
+Unshakable and proud of it
+Monotype Psychic
+Mind over everything
+Monotype Rock
+Solid power, zero doubts
+Monotype Ice
+Cool under pressure
+Monotype Bug
+Proof that size doesn’t matter
+Monotype Dragon
+Born legendary
+Monotype Ghost
+You can’t hit what’s already gone
+Monotype Dark
+Too shady to trust
+Monotype Steel
+Unbreakable by nature
+
+Fast Travel[E]
+ASPERTIA CITY
+FLOCESSY TOWN
+VIRBANK CITY
+CASTELIA CITY
+JOIN AVENUE
+NIMBASA CITY
+DRIFTVEIL CITY
+PWT
+MISTRALTON CITY
+LENTIMAS TOWN
+UNDELLA TOWN
+LACUNOSA TOWN
+OPELUCID CITY
+ICIRRUS CITY
+HUMILAU CITY
+VICTORY ROAD
+POKEMON LEAGUE
+WHITE FOREST
+NACRENE CITY
+STRIATON CITY
+ACCUMULA TOWN
+NUVEMA TOWN
+0x8024 = [V1][E]
+Si vola?[E]
+goBack[E]

@@ -1,0 +1,17 @@
+arm-gnu-toolchain/
+Projects/
+Releases/
+Resources/
+Tools/
+src/
+PW2Code/commission
+IDBs/
+.vscode
+*.dll
+*.elf
+*.jar
+*.exe
+*.ini
+*.nds
+BattleLvlCap.cpp
+ItemLvlCap.cpp

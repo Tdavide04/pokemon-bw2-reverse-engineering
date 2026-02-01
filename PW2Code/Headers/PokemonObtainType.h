@@ -1,0 +1,10 @@
+#pragma once
+enum PokemonObtainType
+{
+  PKM_OBTAIN_CAPTURE = 0x0,
+  PKM_OBTAIN_FIELD_TRADE = 0x1,
+  PKM_OBTAIN_EGG_GIVEN = 0x2,
+  PKM_OBTAIN_EGG_BRED = 0x5,
+  PKM_OBTAIN_GIVEN = 0x6,
+  PKM_OBTAIN_NPOKE = 0x7,
+};

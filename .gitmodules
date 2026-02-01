@@ -1,0 +1,12 @@
+[submodule "PW2Code/ExternalDependencies/swan"]
+	path = PW2Code/ExternalDependencies/swan
+	url = https://github.com/ds-pokemon-hacking/swan
+[submodule "PW2Code/ExternalDependencies/NitroKernel"]
+	path = PW2Code/ExternalDependencies/NitroKernel
+	url = https://github.com/HelloOO7/NitroKernel
+[submodule "PW2Code/ExternalDependencies/libRPM"]
+	path = PW2Code/ExternalDependencies/libRPM
+	url = https://github.com/HelloOO7/libRPM
+[submodule "PW2Code/ExternalDependencies/ExtLib"]
+	path = PW2Code/ExternalDependencies/ExtLib
+	url = https://github.com/HelloOO7/ExtLib
