@@ -32,7 +32,8 @@ This repository is intended as:
 │   ├─ ida-debugging.md        # In-game debugging with IDA Pro
 │   ├─ hex-rendering.md        # HEX-level rendering manipulation
 │   ├─ beaterscript.md         # BeaterScript scripting system
-│   └─ modifications.md       # Gameplay changes and patch overviews
+│   └─ modifications.md        # Gameplay changes and patch overviews
+│   └─ flag-system.md          # Flag system and usage
 ├─ ESDBs/
 │   ├─ Battle.yml
 │   ├─ Field.yml
