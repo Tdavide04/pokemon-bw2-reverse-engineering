@@ -25,58 +25,54 @@ This repository is intended as:
 ## Repository Structure
 
 ```text
-/docs
- ├─ rom-structure.md        # ROM layout and data organization
- ├─ esdb-notes.md           # External Symbol Database (ESDB) notes
- ├─ ida-debugging.md        # In-game debugging with IDA Pro
- ├─ hex-rendering.md        # HEX-level rendering manipulation
- ├─ beaterscript.md         # BeaterScript scripting system notes
- └─ modifications.md        # Gameplay modifications and patches
+.
+├─ Docs/
+│   ├─ rom-structure.md        # Data organization and ROM layout
+│   ├─ esdb-notes.md           # ESDB (External Symbol Database) basics
+│   ├─ ida-debugging.md        # In-game debugging with IDA Pro
+│   ├─ hex-rendering.md        # HEX-level rendering manipulation
+│   ├─ beaterscript.md         # BeaterScript scripting system
+│   └─ modifications.md       # Gameplay changes and patch overviews
+├─ ESDBs/
+│   ├─ Battle.yml
+│   ├─ Field.yml
+│   ├─ LvlCap.yml
+│   └─ PokeList.yml
+├─ PW2Code/
+│   ├─ ExternalDependencies/   # Toolchain submodules (e.g., swan)
+│   ├─ Headers/                # Code headers used for analysis
+│   ├─ Patches/                # Applied patch source code
+│   └─ idSet_Calcolator.py     # Utility scripts
+├─ .gitignore
+├─ LICENSE
+└─ README.md
 ```
 
 Each document is self-contained and written to be GitHub-safe and tool-agnostic where possible.
 
 ---
 
-## Documentation Overview
+## Technical Areas Covered
 
-* **ROM Technical Structure**
-  Overview of how Pokémon White 2 organizes binaries, data archives, maps, scripts, and assets.
-
-* **ESDB – External Symbol Database**
-  Explains how symbol metadata enables safer and more maintainable code injection.
-
-* **In-Game Debugging with IDA Pro**
-  Describes attaching IDA to a running game via an emulator GDB stub to trace execution in real time.
-
-* **HEX-Level Rendering Manipulation**
-  Covers tilemaps, palettes, and how HEX edits affect final rendering.
-
-* **BeaterScript Technical Notes**
-  Documents the scripting layer used for events, NPC behavior, and game logic.
-
-* **Gameplay Modifications**
-  Lists evolution changes, quality-of-life patches, and new features added to the game.
+* **ROM Structure** — How the Pokémon White 2 DS ROM organizes files, maps, and data archives.
+* **ESDB** — How symbol databases help with code injection and debugging tools.
+* **In-Game Debugging** — Attaching IDA Pro via an emulator GDB stub to observe runtime behavior.
+* **HEX Rendering Manipulation** — How tilemaps and palette data produce final rendered screens.
+* **BeaterScript Notes** — High-level scripting for in-game event logic and triggers.
+* **Gameplay Modifications** — Descriptions of evolution changes, QoL patches, and gameplay tweaks.
 
 ---
 
-## Scope and Limitations
+** Toolchain Notes
 
-* This repository **does not include** ROMs, binaries, assets, or proprietary data
-* No original game code is redistributed
-* Instructions focus on **analysis and understanding**, not asset extraction
+**Swan Submodule
+This project uses *swan* (a Git submodule) for toolchain definitions, code headers, and symbol data required by injection tools. 
+A small modification was required to fix build issues encountered during patch development.
+* **Modified file:** *gfl/core/gfl_heap.h*
+* **Scope:** Toolchain / build system only
+* **Impact on game logic:** None
 
-The content is intentionally limited to documentation and research notes.
-
----
-
-## Legal Disclaimer
-
-This repository is intended for **educational and research purposes only**.
-
-No proprietary game assets, binaries, or copyrighted material are included or distributed.
-
-All trademarks and copyrighted materials belong to their respective owners.
+This modification has been pushed to a maintained fork of *swan*, and this repository’s submodule references that fork.
 
 ---
 
@@ -108,8 +104,9 @@ Provided that appropriate credit is given.
 
 ## Legal Notice
 
-This document is intended for educational and research purposes.
-No proprietary game assets, binaries, or copyrighted material
-are included or distributed.
+This repository is intended for educational and research purposes only.
 
-All trademarks belong to their respective owners.
+No proprietary game assets, binaries, or copyrighted material are included
+or redistributed.
+
+All trademarks and copyrighted materials belong to their respective owners.
