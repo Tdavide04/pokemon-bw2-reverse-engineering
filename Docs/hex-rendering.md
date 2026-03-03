@@ -116,15 +116,6 @@ at this screen position.
 
 ---
 
-Common attribute bits:
-
-| Bit      | Meaning             |
-| -------- | ------------------- |
-| Flip H   | Horizontal flip     |
-| Flip V   | Vertical flip       |
-| Palette  | Palette slot (4bpp) |
-| Priority | Draw order          |
-
 ### 4.3 Why Screens Turn Black
 
 A black screen typically means:
