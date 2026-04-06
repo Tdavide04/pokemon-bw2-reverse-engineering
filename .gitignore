@@ -13,5 +13,7 @@ IDBs/
 *.exe
 *.ini
 *.nds
+*.bin
+*.dsv
 BattleLvlCap.cpp
 ItemLvlCap.cpp
