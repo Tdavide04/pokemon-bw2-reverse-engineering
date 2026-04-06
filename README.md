@@ -34,6 +34,7 @@ This repository is intended as:
 │   ├─ beaterscript.md         # BeaterScript scripting system
 │   └─ modifications.md        # Gameplay changes and patch overviews
 │   └─ flag-system.md          # Flag system and usage
+│   └─ icon-palette-array.md   # Location and information about Icon Palette Array
 ├─ ESDBs/
 │   ├─ Battle.yml
 │   ├─ Field.yml
@@ -43,6 +44,8 @@ This repository is intended as:
 │   ├─ ExternalDependencies/   # Toolchain submodules (e.g., swan)
 │   ├─ Headers/                # Code headers used for analysis
 │   ├─ Patches/                # Applied patch source code
+├─ Scripts/
+│   └─ blz_decompressor.py     # Script to decompress BLZ-encoded NDS binaries
 │   └─ idSet_Calcolator.py     # Utility scripts
 ├─ .gitignore
 ├─ LICENSE
