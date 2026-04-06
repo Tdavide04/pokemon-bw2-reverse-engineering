@@ -29,7 +29,7 @@ The array resides within the main processor binary (`arm9.bin`).
 2. Navigate to: `root -> ftc -> arm9.bin`.
 3. Extract the file.
 4. **Decompression:** The file must be decompressed to expose the raw hex data.
-   * Use the Python script `decompress_arm9.py` provided in this repo in [Scripts].
+   * Use the Python script `blz_decompressor.py` provided in this repo in [Scripts].
 
 ---
 
